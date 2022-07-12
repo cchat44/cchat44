@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cchat44
-- 👀 I’m interested in ... learning
+- 👀 I’m interested in ... learning and getting familiar with coding
 - 🌱 I’m currently learning ... coding thru Digital Crafts
-- 💞️ I’m looking to collaborate on ... 
+- 💞️ I’m looking to collaborate on ... class projects
 - 📫 How to reach me ... cc4chat@gmail.com
 
 <!---
